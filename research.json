@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "lastUpdated": "2025-02-01",
-  "description": "Blueprint Supplement Ingredients - Research Data from PubMed Meta-Analyses",
+  "description": "Independent Meta-Analysis of Supplement Ingredients - AI-Assisted Research Data from PubMed",
   "disclaimer": "This data provides links to PubMed meta-analyses and AI-generated summaries for informational purposes only. It is not medical advice, nor a substitute for professional healthcare. Always consult a qualified healthcare provider before making any health decisions or starting supplement regimens.",
   "totalIngredients": 40,
   "products": [
