@@ -803,7 +803,7 @@ html_content = f'''<!DOCTYPE html>
 <body>
     <div class="container">
         <header>
-            <h1>Blueprint Ingredients</h1>
+            <h1>Supplement Ingredients Research Database</h1>
             <p>{escape(data['description'])}</p>
             <div class="meta-info">
                 <span class="meta-badge">{data['totalIngredients']} Ingredients</span>
